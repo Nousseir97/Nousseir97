@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Omar and I am a data analyst for a global waste management company.
+- 👋 Hi, my name is Omar and I am a data analyst for an Islamic Fintech
 - 👀 I’m interested in working on machine learning projects as I aspire to transition from a data analyst to a data scientist.
 - 🌱 I’m currently learning the basics of machine learning in python.
 - 💞️ I’m looking to collaborate on simple machine learning projects.
